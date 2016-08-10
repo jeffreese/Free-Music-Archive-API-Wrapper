@@ -1,0 +1,13 @@
+.artist-thumb-container {
+  width: 150px;
+  height: 175px;
+  margin: 5px;
+  float: left;
+  text-align: center;
+
+  img {
+    width: 100px;
+    height: 100px;
+  }
+}
+
